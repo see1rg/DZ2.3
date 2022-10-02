@@ -20,7 +20,7 @@ public class Animals {
     }
 
     public void sleep() {
-
+        System.out.println("I'm sleeping");
     }
 
     public void go() {

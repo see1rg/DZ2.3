@@ -13,7 +13,7 @@ public class Flight extends Birds {
     }
 
     public void fly() {
-
+        System.out.println("I believe I can fly!");
     }
 
     @Override

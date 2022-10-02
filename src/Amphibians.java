@@ -14,7 +14,7 @@ public class Amphibians extends Animals {
     }
 
     public void hunting() {
-
+        System.out.println("Пиф-паф!");
     }
 
     @Override

@@ -13,7 +13,7 @@ public class Flightless extends Birds {
     }
 
     public void walk() {
-
+        System.out.println("I wish I believe I can fly!");
     }
 
     @Override

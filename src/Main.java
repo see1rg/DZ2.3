@@ -39,6 +39,10 @@ public class Main {
 
         frog.eat();
         penguin.go();
+        dodo.walk();
+        grassSnake.hunting();
+        albatross.fly();
+        bear.sleep();
 
     }
 

@@ -13,7 +13,7 @@ public class Predators extends Mammals {
     }
 
     public void hunting() {
-
+        System.out.println("Кажется сейчас кто-то пострадает.");
     }
 
     @Override

@@ -14,6 +14,7 @@ public class Herbivores extends Mammals {
     }
 
     public void graze() {
+        System.out.println("Я пасусь.");
 // пастись
     }
 

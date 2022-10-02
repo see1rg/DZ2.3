@@ -21,6 +21,7 @@ public class Mammals extends Animals {
     }
 
     public void walk() {
+        System.out.println("Я иду.");
     }
 
     public String getLivingEnvironment() {

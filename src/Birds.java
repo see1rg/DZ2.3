@@ -13,7 +13,7 @@ public class Birds extends Animals {
     }
 
     public void hunting() {
-        System.out.println("Пиф-паф!");
+        System.out.println("Охочусь.");
     }
 
     public String getLivingEnvironment() {

@@ -13,17 +13,17 @@ public class Flightless extends Birds {
     }
 
     public void walk() {
-        System.out.println("I wish I believe I can fly!");
+        System.out.println("I wish I can fly!");
     }
 
     @Override
     public void eat() {
-        super.eat();
+        System.out.println("Я ем!");
     }
 
     @Override
     public void go() {
-        System.out.println("топ топ топ!");
+        System.out.println("Я двигаюсь.");
     }
 
     public String getMovementType() {

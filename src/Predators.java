@@ -18,12 +18,12 @@ public class Predators extends Mammals {
 
     @Override
     public void eat() {
-        super.eat();
+        System.out.println("Я тоже кушаю!");
     }
 
     @Override
     public void go() {
-        super.go();
+        System.out.println("Я иду!");
     }
 
     public String getTypeOfFood() {

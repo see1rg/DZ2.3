@@ -20,12 +20,14 @@ public class Herbivores extends Mammals {
 
     @Override
     public void eat() {
-        super.eat();
+
+        System.out.println("Я ем!");
     }
 
     @Override
     public void go() {
-        super.go();
+
+        System.out.println("Я иду!");
     }
 
     public String getTypeOfFood() {

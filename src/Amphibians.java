@@ -14,17 +14,17 @@ public class Amphibians extends Animals {
     }
 
     public void hunting() {
-        System.out.println("Пиф-паф!");
+        System.out.println("Охочусь.");
     }
 
     @Override
     public void eat() {
-        System.out.println("Ам ням ням!");
+        System.out.println("Я кущаю.");
     }
 
     @Override
     public void go() {
-        super.go();
+        System.out.println("Я иду.");
     }
 
     public String getLivingEnvironment() {
